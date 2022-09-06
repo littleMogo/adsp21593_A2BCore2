@@ -3,8 +3,7 @@
 	<name>SPORT_TDM_Mode_21593_A2B_Core2</name>
 	<comment></comment>
 	<projects>
-		<project>SPORT_TDM_Mode_21593_Core1</project>
-		<project>SPI_MemoryMappedMode_21593_Core1</project>
+		<project>SPORT_TDM_Mode_21593_A2B_Core1</project>
 	</projects>
 	<buildSpec>
 		<buildCommand>
